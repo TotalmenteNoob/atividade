@@ -1,0 +1,26 @@
+.clientes-h1{
+    padding: 1rem 0 5rem 0;
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+.sucesso-cadastro{
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+section.container span{
+    color: red;
+    font-size: 20px;
+}
+
